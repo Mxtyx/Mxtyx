@@ -1,7 +1,7 @@
 <h1 align="center">Wsp its Mxty</h1>
 <h3 align="center">Im a skid ;)</h3>
 <p align = "center">
-<img src="https://media.discordapp.net/attachments/855899695373353001/886697640576827422/f4bf62b4de7f992c58a05606c0282392.gif">
+<img src="https://c.tenor.com/a2txYG5kHe0AAAAC/lucci-block6.gif">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mxtyx&label=Profile%20views&color=0e75b6&style=flat" alt="mxtyx" /> </p>
