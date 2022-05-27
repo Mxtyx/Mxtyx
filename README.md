@@ -4,7 +4,7 @@
 <img src="https://c.tenor.com/a2txYG5kHe0AAAAC/lucci-block6.gif">
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mxtyx&label=Profile%20views&color=0e75b6&style=flat" alt="mxtyx" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mxtyx&label=Profile%20views&color=blueviolet&style=flat" alt="mxtyx" /> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
