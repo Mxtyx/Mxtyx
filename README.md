@@ -1,5 +1,5 @@
 <h1 align="center">Wsp its Mxty</h1>
-<h3 align="center">Im 15 years old</h3>
+<h3 align="center">Im 15 years old Join https://discord.gg/BFzJQBT4qW</h3>
 <p align = "center">
 <img src="https://c.tenor.com/a2txYG5kHe0AAAAC/lucci-block6.gif">
 </p>
