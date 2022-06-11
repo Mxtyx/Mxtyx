@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mxtyx&label=Profile%20views&color=blueviolet&style=flat" alt="mxtyx" /> </p>
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: Mxty#9999</h3>
 <p align="left">
 </p>
 
