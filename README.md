@@ -1,6 +1,7 @@
 <a href="https://mxty.netlify.app" target="_blank"> <img src="https://cdn.discordapp.com/attachments/980924074903613510/985886926231974008/Untitled.png" alt="Mxty's Github"/></a>
 ```sh-session
 Im 15 years old
+Learning C++
 ```
 
 <img src="https://komarev.com/ghpvc/?username=mxtyx&label=Profile%20views&color=blueviolet&style=flat" alt="Visitors"></a>
