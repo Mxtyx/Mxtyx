@@ -2,6 +2,8 @@
 ```sh-session
 im 16 years old
 Learning C++ & Go
+
+V1 Comeback??
 ```
 
 <img src="https://komarev.com/ghpvc/?username=mxtyx&label=Profile%20views&color=blueviolet&style=flat" alt="Visitors"></a>
