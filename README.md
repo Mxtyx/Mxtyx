@@ -1,13 +1,14 @@
 <a href="" target="_blank"> <img src="https://cdn.discordapp.com/attachments/980924074903613510/985886926231974008/Untitled.png" alt="Mxty's Github"/></a>
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=mxtyx&label=Total%20Views&color=blueviolet&style=flat" alt="Total Stars" />
+<img src="https://komarev.com/ghpvc/?username=mxtyx&label=Profile%20views&color=blueviolet&style=flat" alt="Visitors"></a>
+
 ```sh-session
 im 16 years old
 Learning C++ & Go
 
 V1 Comeback??
 ```
-
-<img src="https://komarev.com/ghpvc/?username=mxtyx&label=Profile%20views&color=blueviolet&style=flat" alt="Visitors"></a>
-
 
 ・**Want to contact me? Add Mxty#9999 on discord**
 </a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mxtyx&count_private=true&hide=procfile,css&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="mxtyx" /> </p>
