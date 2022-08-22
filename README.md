@@ -2,6 +2,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mxtyx&label=Profile%20views&color=blueviolet&style=flat" alt="Visitors"></a>
 <img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=blueviolet&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/mxtyx" alt="Total Stars" ></a>
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Forks&color=blueviolet&style=flat&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/mxtyx" alt="Total Forks"></a> </p>
 
 ```sh-session
 im 16 years old
