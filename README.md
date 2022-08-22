@@ -11,7 +11,7 @@ V1 Comeback??
 
 ・**Want to contact me? Add Mxty#9999 on discord**
 </a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=mxtyx&count_private=true&hide=procfile,css&theme=dark&border_color=000000&cache_seconds=1800&layout=compact&langs_count=10&custom_title=Most Used Coding Languages" alt="mxtyx" /> </p>
-
+![Mxty's Github Stats](https://github-readme-stats.vercel.app/api?username=mxtyx&show_icons=true&theme=midnight-purple)
 
 
 <h3 align="left">Languages:</h3>
