@@ -1,6 +1,6 @@
 <a href="" target="_blank"> <img src="https://cdn.discordapp.com/attachments/980924074903613510/985886926231974008/Untitled.png" alt="Mxty's Github"/></a>
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=mxtyx&label=Total%20Views&color=blueviolet&style=flat" alt="Total Stars" />
+<img src="https://img.shields.io/badge/dynamic/json?&label=Total%20Stars&color=blueviolet&style=flat&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/mxtyx" alt="Total Stars" ></a>
 <img src="https://komarev.com/ghpvc/?username=mxtyx&label=Profile%20views&color=blueviolet&style=flat" alt="Visitors"></a>
 
 ```sh-session
