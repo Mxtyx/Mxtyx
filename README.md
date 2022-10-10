@@ -8,7 +8,7 @@
 im 16 years old
 Learning C++ & Go
 
-V1 Comeback??
+New projects coming
 ```
 
 ・**Want to contact me? Add Mxty#8440 on discord**
