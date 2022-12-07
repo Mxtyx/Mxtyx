@@ -11,7 +11,7 @@ Learning C++ & Go
 New projects coming
 ```
 
-・**Want to contact me? Add Mxty#8440 on discord**
+・**Want to contact me? Add Mxty#9999 on discord**
 
 ![Mxty's Github Stats](https://github-readme-stats.vercel.app/api?username=Mxtyx&show_icons=true&theme=midnight-purple)
 </a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mxtyx&theme=midnight-purple" /> </p>
