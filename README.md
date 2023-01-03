@@ -7,8 +7,9 @@
 ```sh-session
 im 16 years old
 Learning C++ & Go
-
 New projects coming
+
+join discord.gg/erip
 ```
 
 ・**Want to contact me? Add Mxty#9999 on discord**
